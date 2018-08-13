@@ -1,4 +1,4 @@
-#!"C:\Users\Vimal Jay\Desktop\ClientServer\venv\Scripts\python.exe"
+#!"C:\Users\Vimal Jay\PycharmProjects\ClientServer\ClientServerCommunitaction\venv\Scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==39.1.0','console_scripts','easy_install-3.7'
 __requires__ = 'setuptools==39.1.0'
 import re
